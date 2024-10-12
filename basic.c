@@ -1,5 +1,5 @@
 //* 1st thing we need to add is the pre processor
-#include <stdio.h>
+// #include<stdio.h>
 
 //* 2nd we would add main function
 int main(){ // main function
