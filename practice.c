@@ -124,6 +124,7 @@ int main()
    int value = 5, i, j, k;
 
    for(i = 0; i < value ; i++){
+      for(k=0; k<=i; k++) printf(" ");
       for(j=i; j<value; j++){
          printf("* ");
       }
